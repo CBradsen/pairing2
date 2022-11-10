@@ -8,4 +8,8 @@ var arrays = ["sean", "Jenna", "Tracey", "Dalton", "Leigh"]
 console.log(arrays[0]);
 // this writes code to print the first element, index position, 0.
 
+var citys = ["Tokyo", "Paris", "Madrid", "Germany", "Austin"]
+citys.pop()
+console.log(citys);
+
 
